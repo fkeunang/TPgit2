@@ -1,4 +1,2 @@
-# TP Git
-laboratoire de prise en main de git 
 
-## Sommaire 
+Force à toi on a tout supprimé. 
